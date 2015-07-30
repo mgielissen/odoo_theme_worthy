@@ -9,7 +9,7 @@
             <link href="/theme_worthy/static/src/css/animations.css" rel="stylesheet" type="text/css"/>
             <link href="/theme_worthy/static/src/css/animate.css" rel="stylesheet" type="text/css"/>
             <link href="/theme_worthy/static/src/css/custom.css" rel="stylesheet" type="text/css"/>
-            <script type="text/javascript" src="/theme_worthy/static/src/js/template.js" /> 
+            <script type="text/javascript" src="/theme_worthy/static/src/js/template.js" />  
             <script type="text/javascript" src="/theme_worthy/static/src/js/custom.js" />
             <script type="text/javascript" src="/theme_worthy/static/src/plugins/isotope/isotope.pkgd.min.js" />
             <script type="text/javascript" src="/theme_worthy/static/src/plugins/isotope/jquery.backstretch.min.js" />
