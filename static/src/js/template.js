@@ -44,6 +44,7 @@
 			});
 		}
 
+		
 		//Smooth Scroll
 		//-----------------------------------------------
 		if ($(".smooth-scroll").length>0) {
@@ -63,7 +64,7 @@
 
 		// Animations
 		//-----------------------------------------------
-		if (($("[data-animation-effect]").length>0) && !Modernizr.touch) {
+/*		if (($("[data-animation-effect]").length>0) && !Modernizr.touch) {
 			$("[data-animation-effect]").each(function() {
 				var $this = $(this),
 				animationEffect = $this.attr("data-animation-effect");
@@ -78,7 +79,7 @@
 				}
 			});
 		};
-
+*/
 		// Isotope filters
 		//-----------------------------------------------
 		if ($('.isotope-container').length>0) {
@@ -108,6 +109,8 @@
 				$(".modal").prependTo( "body" );
 			});
 		}
+		
+		
 
 	}); // End document ready
 })(this.jQuery);
